@@ -48,7 +48,7 @@ button {
   margin: 10px;
   padding: 5px;
   font-size: 18px;
-  background-color: white;
+  background-color: #E1F5FE;;
 }
 
 ol {
@@ -70,6 +70,22 @@ footer {
   font-weight: bold;
 }
 
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+a:active {
+  color: pink;
+}
+
 .container {
   width: 90%;
   height: 100%;
@@ -80,7 +96,7 @@ footer {
 
 .table-image {
   height: 200px;
-  width: 200px;
+  width: 250px;
 }
 
 .youtube-video {
