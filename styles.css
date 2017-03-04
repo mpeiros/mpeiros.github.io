@@ -51,6 +51,16 @@ button {
   background-color: white;
 }
 
+ol {
+  margin-top: 50px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+ol li {
+  margin: 20px;
+}
+
 footer {
   position: absolute;
   bottom: 10px;
