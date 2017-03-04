@@ -68,6 +68,10 @@ ol li {
   margin: 20px;
 }
 
+th, td {
+  border: 2px solid black;
+}
+
 footer {
   position: absolute;
   bottom: 10px;
@@ -126,6 +130,8 @@ a:active {
 }
 
 #sloth-table {
+  border: 2px solid black;
+  border-collapse: collapse;
   text-align: center;
   margin: 20px auto;
   background-color: #E1F5FE;
