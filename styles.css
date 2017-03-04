@@ -36,6 +36,10 @@ form div {
   margin: 20px;
 }
 
+input {
+  font-size: 16px;
+}
+
 select {
   font-size: 16px;
 }
@@ -64,10 +68,21 @@ footer {
   background-color: #B3E5FC;
 }
 
+.table-image {
+  height: 200px;
+  width: 200px;
+}
+
 #slothville {
   width: 100%;
   text-align: center;
   position: absolute;
   bottom: 50px;
   left: 0;
+}
+
+#sloth-table {
+  text-align: center;
+  margin: 20px auto;
+  background-color: #E1F5FE;
 }
