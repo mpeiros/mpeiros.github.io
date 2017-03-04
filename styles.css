@@ -27,6 +27,15 @@ nav ul li {
   margin: 20px 40px 20px 40px;
 }
 
+form {
+  margin: 25px;
+  text-align: center;
+}
+
+form div {
+  margin: 10px;
+}
+
 footer {
   position: absolute;
   bottom: 0;
@@ -42,4 +51,9 @@ footer {
   margin: 0 auto;
   padding-top: 1px;
   background-color: #B3E5FC;
+}
+
+#slothville {
+  width: 75%;
+  margin: 0 auto;
 }
