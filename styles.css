@@ -83,6 +83,13 @@ footer {
   width: 200px;
 }
 
+.youtube-video {
+  display: block;
+  margin: 50px auto;
+  height: 300px;
+  width: 500px;
+}
+
 #slothville {
   width: 100%;
   text-align: center;
