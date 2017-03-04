@@ -38,7 +38,7 @@ form div {
 
 footer {
   position: absolute;
-  bottom: 0;
+  bottom: 10px;
   left: 0;
   width: 100%;
   text-align: center;
@@ -54,6 +54,9 @@ footer {
 }
 
 #slothville {
-  width: 75%;
-  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 50px;
+  left: 0;
 }
