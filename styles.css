@@ -111,6 +111,10 @@ a:active {
   margin: 50px auto;
   height: 300px;
   width: 500px;
+  border: solid black;
+  border-width: 5px;
+  padding: 5px;
+  border-color: #E1F5FE;
 }
 
 #slothville {
